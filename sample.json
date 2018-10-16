@@ -1,0 +1,13 @@
+{
+    "pic32": {
+        "requestsSent": 0,
+        "repliesReceived": 0,
+        "missedReplies": 0
+    },
+    "server": {
+        "requestsReceived": 0,
+        "missedRequests": 0,
+        "repliesSent": 0,
+        "incorrectReplies": 0   
+    }
+}
